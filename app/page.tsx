@@ -17,6 +17,7 @@ export default function Home() {
         <nav className="mb-8">
           <ul className="flex space-x-4">
             <li><a href="/" className="text-purple-500 hover:underline">Strona główna</a></li>
+            <li><a href="/projects" className="text-cyan-500 hover:underline">Moje projekty</a></li>
             <li><a href="/about" className="text-green-500 hover:underline">Więcej o mnie</a></li>
           </ul>
         </nav>
